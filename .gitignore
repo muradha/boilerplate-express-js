@@ -109,6 +109,6 @@ web_modules/
 
 # Optional stylelint cache
 
-./src/generated/prisma/
+src/generated/prisma/
 
 # End of https://www.toptal.com/developers/gitignore/api/node
